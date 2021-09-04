@@ -1,3 +1,4 @@
+![museumofcandy](https://user-images.githubusercontent.com/27373255/132108877-8f3f51ab-9768-4586-a396-7f1b81349b45.png)
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/132067880-24124731-3960-4093-acf3-e7d648918323.png" alt="scorekeeper"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer une application permettant de noter le score d'un jeu.</p>
