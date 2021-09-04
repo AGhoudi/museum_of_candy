@@ -19,4 +19,4 @@ J'ai crée une application en HTML, CSS et JAVASCRIPT.</br>
 
 <p align=center>Voici un lien pour tester l'application:
 
-  <a title="https://aghoudi.github.io/Scorekeeper/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/Scorekeeper/">https://aghoudi.github.io/Scorekeeper/</a></p>
+  <a title="https://aghoudi.github.io/museum_of_candy/" role="link" target="_blank" class="text-bold" rel="noopener noreferrer" href="https://aghoudi.github.io/museum_of_candy/">https://aghoudi.github.io/museum_of_candy/</a></p>
