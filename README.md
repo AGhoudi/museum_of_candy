@@ -1,6 +1,6 @@
 <div align=center><img src="https://user-images.githubusercontent.com/27373255/132108877-8f3f51ab-9768-4586-a396-7f1b81349b45.png" alt="museum_of_candy"/></div>
 <h2 align=center>🎯 Objectif du projet :</h2>
-<p align=center>Il s'agissait de créer une application permettant de noter le score d'un jeu.</p>
+<p align=center>Il s'agissait de créer une page de présentation colorée sur le thème des bonbons.</p>
 
 <h2 align=center>📝 Description :</h2>
 
